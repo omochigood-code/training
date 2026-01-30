@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Frontend
+mono-front/node_modules
+mono-front/.svelte-kit
+mono-front/dist
+
+# Backend
+mono-back/target
+
+# Env
+.env
+.env.*
